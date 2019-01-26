@@ -1,5 +1,5 @@
 # FaceDetection
 
 This is a Demo for Face Recognition  
-[![Watch the video](FaceDetection/20190126_225329.mp4)](FaceDetection/20190126_225329.mp4)
+![](FaceDetection/2s48i9.gif)](FaceDetection/2s48i9.gif)
 
