@@ -5,7 +5,7 @@ I Am using a python library called face_recognition based on OpenCv and TensorFl
 
 to Install it 
 
-Steps .
+Steps
 pip install face_recognition
 
 
